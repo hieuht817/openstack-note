@@ -6,11 +6,14 @@
   - controller nodes
   - standalone storage nodes
 
-|  a   |  b  |  d   |  c  |     |
-| ---- | --- | ---- | --- | --- |
-| fdfd |     |      |     |     |
-|      |     | fdfd |     |     |
-|      |     |      |     |     |
+|     Service      | Controller Nodes | Storage Nodes | Compute Nodes |
+| ---------------- | ---------------- | ------------- | ------------- |
+| api              |                  |               |               |
+| volume           |                  |           |               |
+| scheduler daemon |                  |               |               |
+| backup           |                  |               |               |
+| messaging queue  |                  |               |               |
+
 
 # Services
 
