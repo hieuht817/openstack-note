@@ -9,6 +9,9 @@ Cheatsheet
 
 ## Physical Volume = pv
 
+## Volume Group = vg
+
+## Logical Volume = pv
 
 
 ```sh
