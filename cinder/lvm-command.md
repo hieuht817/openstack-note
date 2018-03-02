@@ -5,7 +5,7 @@ https://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-m
 
 # CLI Commands
 Cheatsheet
-![Cheatsheet](https://www.howtogeek.com/wp-content/uploads/2011/01/xlvm-cheatsheet-235x300.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.c_J-8Z7dpG.png)
+![Cheatsheet](https://www.howtogeek.com/wp-content/uploads/2011/01/lvm-cheatsheet.png)
 
 ## Physical Volume = pv
 
